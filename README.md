@@ -1,6 +1,13 @@
 ## Hi there 👋
 
-![LEN]([https://enlace-al-gif.com/imagen.gif](https://tenor.com/es-CL/view/lillia-league-of-legends-tft-silly-deer-gif-11019555748213731983))
+![Lillia]([[https://enlace-al-gif.com/imagen.gif](https://tenor.com/es-CL/view/lillia-league-of-legends-tft-silly-deer-gif-)](https://tenor.com/lFxefu4OnR5.gif))
+
+![Len](https://tenor.com/bu7Ba.gif)
+
+Yo cuando me compila el código
+![Len2](https://tenor.com/umYmbCxBkD3.gif)
+
+
 <!--
 **IsisIOo/IsisIOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
