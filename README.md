@@ -2,10 +2,10 @@
 
 ![Lillia](https://media1.tenor.com/m/hgR7KZY9qdcAAAAC/lillia-spin.gif)
 
-![Len]([https://tenor.com/bu7Ba.gif](https://media1.tenor.com/m/JdhKAJQsn2EAAAAd/kagamine-len-vocaloid.gif))
+![Len](https://tenor.com/bu7Ba.gif](https://media1.tenor.com/m/JdhKAJQsn2EAAAAd/kagamine-len-vocaloid.gif)
 
 Yo cuando me compila el código
-![Len2]([https://tenor.com/umYmbCxBkD3.gif](https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif))
+![Len2](https://tenor.com/umYmbCxBkD3.gif](https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif)
 
 
 <!--
