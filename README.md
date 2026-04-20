@@ -1,12 +1,13 @@
 ## Hi there 👋
 
-![Lillia](https://media1.tenor.com/m/hgR7KZY9qdcAAAAC/lillia-spin.gif)
-
 ![Len](https://media1.tenor.com/m/JdhKAJQsn2EAAAAd/kagamine-len-vocaloid.gif)
 
 Yo cuando me compila el código
-![Len2](https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif)
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/hgR7KZY9qdcAAAAC/lillia-spin.gif" width="200" alt="Lillia Spin" />
+  <img src="https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif" width="200" alt="Len Dance" />
+</p>
 
 <!--
 **IsisIOo/IsisIOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
