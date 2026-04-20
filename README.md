@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-![Lillia]([[https://enlace-al-gif.com/imagen.gif](https://tenor.com/es-CL/view/lillia-league-of-legends-tft-silly-deer-gif-)](https://tenor.com/lFxefu4OnR5.gif))
+![Lillia](https://media1.tenor.com/m/hgR7KZY9qdcAAAAC/lillia-spin.gif)
 
-![Len](https://tenor.com/bu7Ba.gif)
+![Len]([https://tenor.com/bu7Ba.gif](https://media1.tenor.com/m/JdhKAJQsn2EAAAAd/kagamine-len-vocaloid.gif))
 
 Yo cuando me compila el código
-![Len2](https://tenor.com/umYmbCxBkD3.gif)
+![Len2]([https://tenor.com/umYmbCxBkD3.gif](https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif))
 
 
 <!--
