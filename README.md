@@ -1,6 +1,9 @@
-## Hi there 👋
+## ✨ Hola ✨
+Soy Isidora, estudiante de Ingeniería Civil en Informática en la Universidad de Santiago de Chile (USACH).
 
 ![Len](https://media1.tenor.com/m/JdhKAJQsn2EAAAAd/kagamine-len-vocaloid.gif)
+
+---
 
 Yo cuando me compila el código
 
