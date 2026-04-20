@@ -6,7 +6,7 @@ Yo cuando me compila el código
 
 <p align="center">
   <img src="https://media.tenor.com/hgR7KZY9qdcAAAAC/lillia-spin.gif" width="200" alt="Lillia Spin" />
-  <img src="https://media.tenor.com/61vc5kZcN70AAAAd/kagamine-len-len.gif" width="200" alt="Len Dance" />
+  <img src="https://media1.tenor.com/m/61vc5kZcN70AAAAd/kagamine-len-len.gif" />
 </p>
 
 <!--
